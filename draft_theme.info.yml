@@ -2,7 +2,7 @@ name: Draft theme
 type: theme
 hidden: true
 description: 'Draft base theme'
-core: 8.x
+core_version_requirement: ^8 || ^9
 base theme: classy
 
 regions:

@@ -1,7 +1,7 @@
 name: STARTER
 type: theme
 description: 'Subtheme of Draft'
-core: 8.x
+core_version_requirement: ^8 || ^9
 base theme: draft_theme
 
 ckeditor_stylesheets:
